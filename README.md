@@ -1,6 +1,6 @@
 # ***SOYABUL ISLAM***
-## Email(1): <islam1709028@stud.kuet.ac.bd> 
-## Email(2): <soyablincoln0998@gmail.com>
+###  <islam1709028@stud.kuet.ac.bd> 
+###  <soyablincoln0998@gmail.com>
 
 ### Hi there 👋.
 
@@ -19,6 +19,7 @@
 - git
 - HTML
 - CSS
+- RASA
 - Javascript
 - Machine Learning
 - Deep Learning
@@ -27,96 +28,20 @@
 
 
 
-#### For achieving my goal I have acquired these skills with the help of different learning platforms like Coursera, Udemy. And we cant deny youtube!! :smile:
+#### For achieving my goal I have acquired these skills with the help of different learning platforms like Coursera, Udemy. And we can't deny youtube!! :smile:
 
-#### For connecting with me you can follow me here:
-
-
-
-<html>
-<head>
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style> .fa {
-  padding: 10px;
-  font-size: 30px;
-  width: 50px;
-  border-radius: 20px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
-}
-
-.fa:hover {
-    opacity: 0.7;
-}
-
-.fa-facebook {
-  background: #3B5998;
-  color: white;
-}
-
-
-.fa-linkedin {
-  background: #007bb5;
-  color: white;
-}
-
-.fa-youtube {
-  background: #bb0000;
-  color: white;
-}
-
-.fa-instagram {
-  background: #125688;
-  color: white;
-}
-
-.fa-pinterest {
-  background: #cb2027;
-  color: white;
-}
-
-.fa-skype {
-  background: #00aff0;
-  color: white;
-}
-
-
-.fa-kaggle {
-  background: #00aff0;
-  color: white;
-}
-
-</style>
-</head>
-<body>
-<a href="#" class="fa fa-facebook"></a>
-<a href="#" class="fa fa-linkedin"></a>
-<a href="#" class="fa fa-youtube"></a>
-<a href="#" class="fa fa-instagram"></a>
-<a href="#" class="fa fa-kaggle"></a>
-<a href="#" class="fa fa-skype"></a>
-
-      
-</body>
-</html> 
+#### Experience: 
+- **Data Science and Business Analytics Intern**
+    * October,2020 -  November, 2020
+    * **[The Sparks Foundation](https://www.brainekt.com/)**
+- **NLP & NLU Intern**
+    * October,2020 - Present
+    * **[Brainekt](https://www.brainekt.com/)**
 
 
 
 
 
-<!--
-**SoyabulIslamLincoln/SoyabulIslamLincoln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Image Processing and Machine Learning
+- ⚡ About me: I love football . favourite club is Bayern Munich. I also love gaming in free time.
