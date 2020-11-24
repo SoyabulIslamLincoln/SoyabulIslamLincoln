@@ -1,4 +1,4 @@
-# ***SOYABUL ISLAM***
+# ***Soyabul Islam Lincoln***
 ###  <islam1709028@stud.kuet.ac.bd> 
 ###  <soyablincoln0998@gmail.com>
 
