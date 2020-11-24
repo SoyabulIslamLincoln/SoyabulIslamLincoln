@@ -9,8 +9,17 @@
 #### I am an Undergraduate student majoring in Electronics and Communication Engineering (ECE) in Khulna University of Engineering & Technology :bangladesh:
 
 #### I have great interest in Machine Learning , Artificial Intelligence. I intend to build my career in this path. :robot:
+#### Lets show you my skills:
+#### - C
+#### - C++
+#### - Python :python:
+#### - C
+#### - C
+#### - C
 
-###
+
+#### For achieving my goal I have acquired these skills with the help of different learning platforms like Coursera, Udemy. And we cant deny youtube!! :smile:
+
 
 
 
