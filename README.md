@@ -1,8 +1,18 @@
 # ***SOYABUL ISLAM***
+## Email(1): <islam1709028@stud.kuet.ac.bd> 
+## Email(2): <soyablincoln0998@gmail.com>
 
-### Hi there 👋
+### Hi there 👋.
 
-#### I am 
+
+#### I am  Soyabul Islam. You also call me Lincoln as it is my surname.
+#### I am an Undergraduate student majoring in Electronics and Communication Engineering (ECE) in Khulna University of Engineering & Technology :bangladesh:
+
+#### I have great interest in Machine Learning , Artificial Intelligence. I intend to build my career in this path.
+
+###
+
+
 
 
 
