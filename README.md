@@ -32,13 +32,12 @@
 #### For connecting with me you can follow me here:
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-.fa {
+<style> .fa {
   padding: 10px;
   font-size: 30px;
   width: 50px;
@@ -92,10 +91,6 @@
 </style>
 </head>
 <body>
-
-<h2>Style Social Media Buttons</h2>
-
-<!-- Add font awesome icons -->
 <a href="#" class="fa fa-facebook"></a>
 <a href="#" class="fa fa-linkedin"></a>
 <a href="#" class="fa fa-youtube"></a>
