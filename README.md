@@ -37,11 +37,17 @@
 - **NLP & NLU Intern**
     * October,2020 - Present
     * **[Brainekt](https://www.brainekt.com/)**
+- **Deep Learning Application Developer Intern**
+    * December,2020 - Present
+    * **[Technocolabs](https://technocolabs.tech/)**
+- **Artificial Intelligence Intern**
+    * February 2021- Present
+    * **[DevIncept](https://devincept.tech/)**
 
 
 
 
 
 
-- 🌱 I’m currently learning Image Processing and Machine Learning
+- 🌱 I’m currently learning Image Processing, Generative Adversial Network and Machine Learning
 - ⚡ About me: I love football . favourite club is Bayern Munich. I also love gaming in free time.
