@@ -51,3 +51,6 @@
 
 - 🌱 I’m currently learning Image Processing, Generative Adversial Network and Machine Learning
 - ⚡ About me: I love football . favourite club is Bayern Munich. I also love gaming in free time.
+
+
+[![Soyabul Islam Lincoln's github stats](https://github-readme-stats.vercel.app/api?username=SoyabulIslamLincoln&show_icons=true&theme=dracula)](https://github.com/SoyabulIslamLincoln/github-readme-stats)
