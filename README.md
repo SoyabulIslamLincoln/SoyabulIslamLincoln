@@ -24,6 +24,7 @@
 - Machine Learning
 - Deep Learning
 - Natural Language Processing
+- Computer Vision
 - Data Science
 
 
@@ -34,14 +35,18 @@
 - **Data Science and Business Analytics Intern**
     * October,2020 -  November, 2020
     * **[The Sparks Foundation](https://www.brainekt.com/)**
-- **NLP & NLU Intern**
-    * October,2020 - Present
+- **Chatbot Development Intern**
+    * October,2020 - February 2021
     * **[Brainekt](https://www.brainekt.com/)**
 - **Deep Learning Application Developer Intern**
     * December,2020 - Present
     * **[Technocolabs](https://technocolabs.tech/)**
 - **Artificial Intelligence Intern**
-    * February 2021- Present
+    * March 2021 - April 2021
+    * **[DevIncept](https://devincept.tech/)**
+
+- **Web development Intern**
+    * May 2021- July 2021
     * **[DevIncept](https://devincept.tech/)**
 
 
