@@ -32,22 +32,37 @@
 #### For achieving my goal I have acquired these skills with the help of different learning platforms like Coursera, Udemy. And we can't deny youtube!! :smile:
 
 #### Experience: 
-- **Data Science and Business Analytics Intern**
-    * October,2020 -  November, 2020
-    * **[The Sparks Foundation](https://www.brainekt.com/)**
-- **Chatbot Development Intern**
-    * October,2020 - February 2021
+- **Computer Vision Research Intern**
+    * October 2021 -Present
     * **[Brainekt](https://www.brainekt.com/)**
-- **Deep Learning Application Developer Intern**
-    * December,2020 - Present
-    * **[Technocolabs](https://technocolabs.tech/)**
-- **Artificial Intelligence Intern**
-    * March 2021 - April 2021
-    * **[DevIncept](https://devincept.tech/)**
+ 
+- **Research Intern(Computational Social Science)**
+    * 14 September 2021 - Present
+    * **[Tokyo Institute of Technology(Sasahara Lab)](https://www.titech.ac.jp/english)**
+
+- **Community Manager**
+    * July 2021 - November 2021
+    * **[DevIncept](https://devincept.com/)**
 
 - **Web development Intern**
     * May 2021- July 2021
-    * **[DevIncept](https://devincept.tech/)**
+    * **[DevIncept](https://devincept.com/)**
+
+- **Artificial Intelligence Intern**
+    * March 2021 - April 2021
+    * **[DevIncept](https://devincept.com/)**
+
+- **Deep Learning Application Developer Intern**
+    * December,2020 - February 2021
+    * **[Technocolabs](https://technocolabs.tech/)**
+
+- **Chatbot Development Intern**
+    * October,2020 - February 2021
+    * **[Brainekt](https://www.brainekt.com/)**
+    
+- **Data Science and Business Analytics Intern**
+    * October,2020 -  November, 2020
+    * **[The Sparks Foundation](https://www.brainekt.com/)**
 
 
 
