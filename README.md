@@ -3,6 +3,10 @@
 ###  <soyablincoln0998@gmail.com>
 
 ### Hi there 👋.
+<p align=right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SoyabulIslamLincoln/count.svg" />
+</p>
 
 
 #### I am  Soyabul Islam. You also call me Lincoln as it is my surname.
@@ -67,10 +71,39 @@
 
 
 
+🔨 **Languages and Tools:**  
+<p>
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  
+<!--   <code><img width="15%" src="https://img.shields.io/badge/-Illustrator-141a20?style=flat&logo=adobe-illustrator"></code> -->
+  <br/>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <br/>
+</p>
 
+<a href="https://github.com/SoyabulIslamLincoln">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyabulIslamLincoln&&theme=dracula&hide_langs_below=1" />
+</a>
 
 - 🌱 I’m currently learning Image Processing, Generative Adversial Network and Machine Learning
 - ⚡ About me: I love football . favourite club is Bayern Munich. I also love gaming in free time.
 
 
 [![Soyabul Islam Lincoln's github stats](https://github-readme-stats.vercel.app/api?username=SoyabulIslamLincoln&show_icons=true&theme=dracula)](https://github.com/SoyabulIslamLincoln/github-readme-stats)
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SoyabulIslamLincoln&theme=vue-dark" width="49.5%" height="10.0%"/> 
+
+
+
+
+
+
