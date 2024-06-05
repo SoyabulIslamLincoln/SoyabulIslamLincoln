@@ -3,10 +3,7 @@
 ###  <soyablincoln0998@gmail.com>
 
 ### Hi there 👋.
-<p align=right"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/SoyabulIslamLincoln/count.svg" />
-</p>
+
 
 
 #### I am  Soyabul Islam. You also call me Lincoln as it is my surname.
@@ -36,6 +33,9 @@
 #### For achieving my goal I have acquired these skills with the help of different learning platforms like Coursera, Udemy. And we can't deny youtube!! :smile:
 
 #### Experience: 
+- **ML Engineer-I**
+    * April 2023 -Present
+    * **[Teton Private Limited](https://tetonelectronics.com/)**
 - **Computer Vision Research Intern**
     * October 2021 -Present
     * **[Brainekt](https://www.brainekt.com/)**
@@ -97,7 +97,10 @@
 - 🌱 I’m currently learning Image Processing, Generative Adversial Network and Machine Learning
 - ⚡ About me: I love football . favourite club is Bayern Munich. I also love gaming in free time.
 
-
+<p align=right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/SoyabulIslamLincoln/count.svg" />
+</p>
 [![Soyabul Islam Lincoln's github stats](https://github-readme-stats.vercel.app/api?username=SoyabulIslamLincoln&show_icons=true&theme=dracula)](https://github.com/SoyabulIslamLincoln/github-readme-stats)
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=SoyabulIslamLincoln&theme=vue-dark" width="49.5%" height="10.0%"/> 
